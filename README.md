@@ -13,7 +13,7 @@ A simple command-line tool to check password strength and provide actionable fee
 Clone the repo and install locally:
 
 ```bash
-git clone https://github.com/yourusername/password_checker_cli.git
+git clone https://github.com/PorjanyaBordoloi/password_checker_cli.git
 cd password_checker_cli
 pip install -e .
 ```
